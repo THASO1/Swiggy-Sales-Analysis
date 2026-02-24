@@ -8,7 +8,7 @@ This project provides a comprehensive analysis of **Swiggy's sales data**, aimin
 ## 🖥️ Project Dashboard
 The primary focus of this project is the interactive dashboard which provides a high-level summary of all critical metrics (KPIs) and trends.
 
-![Swiggy Dashboard](Swiggy_Dashboard.png)
+![Swiggy Dashboard](Swiggy_Dashboard.png?v=2)
 
 ---
 
@@ -53,4 +53,5 @@ The dashboard focuses on several key performance indicators:
 3. Use the **Slicers** on the left side of the dashboard to filter data by date, region, or category.
 
 ---
+
 **Developed by Ahmed Osama** *Aspiring Data Analyst*
