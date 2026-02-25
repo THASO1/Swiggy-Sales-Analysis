@@ -8,7 +8,7 @@ This project provides a comprehensive analysis of **Swiggy's sales data**, aimin
 ## 🖥️ Project Dashboard
 The primary focus of this project is the interactive dashboard which provides a high-level summary of all critical metrics (KPIs) and trends.
 
-![Swiggy Dashboard](Swiggy_Dashboard.png?v=2)
+![Swiggy Dashboard](Swiggy_Dashboard.png)
 
 ---
 
@@ -42,8 +42,10 @@ The dashboard focuses on several key performance indicators:
 ---
 
 ## 📂 Project Files
-* `Swiggy-Sales-Analysis.xlsx`: The main Excel file containing the data, model, and dashboard.
-* `/Images`: Folder containing screenshots of the dashboard and data model.
+* **Swiggy-Sales-Analysis.xlsx** : The main Excel file containing the data, model, and dashboard.
+* **Swiggy_Dashboard.png** : Screenshot of the interactive dashboard.
+* **Swiggy_Data.png** : Screenshot of the raw/processed data.
+* **Swiggy_DataModel.png** : Screenshot of the data model and relationships.
 
 ---
 
@@ -53,5 +55,4 @@ The dashboard focuses on several key performance indicators:
 3. Use the **Slicers** on the left side of the dashboard to filter data by date, region, or category.
 
 ---
-
 **Developed by Ahmed Osama** *Aspiring Data Analyst*
